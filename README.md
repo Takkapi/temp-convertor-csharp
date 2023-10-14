@@ -1,2 +1,2 @@
 # temp-convertor-csharp
-A simple GUI temperature covertor coded in C# .NET Windows Form
+A simple GUI temperature convertor coded in C# .NET Windows Form
